@@ -1,6 +1,5 @@
 # hotel-hospitality-analysis
 
-
 This is an internship project completed by Fareed Ahmed as part of the B.Tech Computer Science and Engineering program at Presidency University, Bengaluru. The project focuses on analyzing hotel operations data using Microsoft Power BI to support decision-making in hospitality management.
 
 ## 📘 Project Overview
@@ -35,7 +34,8 @@ Booking Channel Insights: Comparison between OTA (Online Travel Agencies), websi
 - DAX (Measure Calculations)
 - Excel (Data Preprocessing)
   
-- 🚀 Outcomes:
+  🚀 Outcomes:
+
 A scalable and reusable Power BI dashboard template for hotel analytics
 
 Improved understanding of how analytics applies in the hospitality sector
