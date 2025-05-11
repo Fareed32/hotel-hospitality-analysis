@@ -27,7 +27,7 @@ Booking Channel Insights: Comparison between OTA (Online Travel Agencies), websi
 - Identify high-performing booking channels
 - Evaluate guest feedback and sentiment
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - Microsoft Power BI (Dashboard Design)
 - Power Query (Data Cleaning)
